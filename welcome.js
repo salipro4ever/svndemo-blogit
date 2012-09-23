@@ -1,1 +1,1 @@
-alert('Welcome to www.blogit.info (member1)')
+alert('Welcome to www.blogit.info (member2)')
