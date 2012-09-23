@@ -1,3 +1,5 @@
 Welcome
 to
 www.blogit.info
+--
+say goodbye
